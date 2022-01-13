@@ -1,0 +1,23 @@
+body{
+	text-align: center;
+}
+.c_prev{
+	left: 80%;
+}
+.c_prev, .c_next{
+	top: 70%;
+	width: 10%;
+}
+.c_ind{
+
+    right: 70%;
+    bottom: 55%;
+    left: 0;
+    margin-left: 0%;
+    
+
+}
+.c_ind [data-bs-target]{
+	width: 15px;
+	height: 15px;
+}
